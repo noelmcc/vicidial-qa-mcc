@@ -2,8 +2,7 @@
 ### AST_comments_supedit_p2.php
 ### 
 ### Special thanks to Yiannos Katsirintakis <janokary@gmail.com> for the base code.    www.publicissue.gr LICENSE: GPLv2
-#### Copyright (C) 2017  Noel Cruz <noel@mycallcloud.com> MyCallCloud LLC    LICENSE: AGPLv2
-#
+###
 # additional page for supervisor access to qa questions functionalities
 # created 12-12-2016 noel cruz noel@mycallcloud.com
 
