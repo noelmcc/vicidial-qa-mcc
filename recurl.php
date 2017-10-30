@@ -6,5 +6,5 @@ $recurl2 = "http://v18.mycallcloud.com";			//change this to the public address f
 
 
 
-//add more servers as needed; use var format as shown
+//add more servers as needed, or delete; use var format as shown
 ?>
