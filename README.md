@@ -10,3 +10,5 @@ updated AST_comments_supedit_p2_showhidq.php file
 updated AST_comments_supedit_p3.php file
 
 updates cover: removed hard-coded db server name, defined db server name to variable (line 168), used variable to define db server name in mysql sqcript.
+
+added file: recurl.php - public path for recorded audio files
